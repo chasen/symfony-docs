@@ -105,7 +105,7 @@ Configuration
 * `php_errors`_
     * `log`_
     * `throw`_
-* `cache <reference-cache>`_
+* `cache`_
     * `prefix_seed`_
 
 secret
